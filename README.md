@@ -81,7 +81,7 @@ Pricing is tiered by pizza size with premium charges for meats and cheeses:
 ## Building & Running
 
 ### Prerequisites
-- Java 23 or higher
+- Java 17 or higher
 - Maven 3.6+
 
 ### Build
@@ -131,7 +131,7 @@ Total: 18.25
 
 ## Dependencies
 
-- **Java**: 23
+- **Java**: 17
 - **Build Tool**: Maven 3.13.0
 - **Plugins**: 
   - Maven Compiler Plugin 3.13.0
