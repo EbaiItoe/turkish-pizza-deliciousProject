@@ -1,5 +1,5 @@
 [README (4).md](https://github.com/user-attachments/files/23536169/README.4.md)
-# PIZZA-licious POS - README
+# Turkish-PIZZA-delicious - README
 
 ## Overview
 
