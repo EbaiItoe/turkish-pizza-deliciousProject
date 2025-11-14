@@ -3,7 +3,7 @@
 
 ## Overview
 
-**PIZZA-licious** is a command-line Point of Sale (POS) system for a pizza restaurant. It allows customers to build custom pizzas, select drinks, add sides, and generates itemized receipts. The application is built in Java using Maven.
+**PIZZA-licious** is a command-line Point of Sale (POS) system for a pizza restaurant. It allows customers to build custom pizzas, select drinks, add sides, and generates receipts. The application is built in Java using Maven.
 
 ## Project Structure
 
