@@ -3,7 +3,7 @@
 
 ## Overview
 
-** TURKISH PIZZA-licious APP** is a command-line Point of Sale (POS) system for a pizza restaurant. It allows customers to build custom pizzas, select drinks, add sides, and generates receipts. The application is built in Java using Maven.
+** TURKISH PIZZA-licious APP** is a command-line Point of Sale (POS) system for a pizza restaurant. It allows customers to build custom pizzas, select drinks, add sides order, and generates receipts. The application is built in Java using Maven.
 
 ## Project Structure
 
@@ -144,3 +144,19 @@ See `pom.xml` for complete Maven configuration.
 ---
 
 *Built with ☕ and 🍕*
+
+🍕 🔥 Interesting Code Snippet: Enum-Powered Pizza Pricing Engine
+
+This version of PricingService uses enum-driven pricing, switch expressions, and BigDecimal math in a very compact, elegant style.
+
+✔ Why this code is interesting
+
+Uses sealed pricing logic inside enums
+
+Uses Java 17 switch expressions
+
+No magic numbers floating around
+
+Perfect for interviews & grading
+
+Very readable and extensible
